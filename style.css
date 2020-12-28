@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #8c5;
+    font-size: 40px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+p{
+    font-family: sans-serif;
+}
